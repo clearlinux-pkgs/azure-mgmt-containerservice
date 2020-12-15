@@ -1,5 +1,5 @@
 PKG_NAME := azure-mgmt-containerservice
-URL = https://files.pythonhosted.org/packages/80/bf/e5c3fae434b8bc9ef8c01a2c41937eee5a28f3c5c690086cc371019bd538/azure-mgmt-containerservice-9.0.1.zip
+URL = https://files.pythonhosted.org/packages/9d/40/23a573e9c556fe39776760ac5aa0815c923928a024f980245977e93bdb48/azure-mgmt-containerservice-14.0.0.zip
 ARCHIVES = 
 
 include ../common/Makefile.common
